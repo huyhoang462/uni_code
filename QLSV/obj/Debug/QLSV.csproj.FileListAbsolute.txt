@@ -1,0 +1,13 @@
+C:\Users\hoang\University\CODE\Visual Studio\C#\VD\VD\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\Users\hoang\University\CODE\Visual Studio\C#\VD\VD\obj\Debug\VD.Form1.resources
+C:\Users\hoang\University\CODE\Visual Studio\C#\VD\VD\obj\Debug\VD.Form2.resources
+C:\Users\hoang\University\CODE\Visual Studio\C#\VD\VD\obj\Debug\VD.nhapSV.resources
+C:\Users\hoang\University\CODE\Visual Studio\C#\VD\VD\obj\Debug\VD.timSV.resources
+C:\Users\hoang\University\CODE\Visual Studio\C#\VD\VD\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\hoang\University\CODE\Visual Studio\C#\VD\VD\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\hoang\University\CODE\Visual Studio\C#\VD\VD\bin\Debug\QLSV.exe.config
+C:\Users\hoang\University\CODE\Visual Studio\C#\VD\VD\bin\Debug\QLSV.exe
+C:\Users\hoang\University\CODE\Visual Studio\C#\VD\VD\bin\Debug\QLSV.pdb
+C:\Users\hoang\University\CODE\Visual Studio\C#\VD\VD\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\hoang\University\CODE\Visual Studio\C#\VD\VD\obj\Debug\QLSV.exe
+C:\Users\hoang\University\CODE\Visual Studio\C#\VD\VD\obj\Debug\QLSV.pdb
